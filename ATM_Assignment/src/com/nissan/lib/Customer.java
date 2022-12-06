@@ -1,5 +1,5 @@
 package com.nissan.lib;
-
+/* It is supposed to be in model/entity/bean package */
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
